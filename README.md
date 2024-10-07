@@ -22,7 +22,7 @@
 1. Clone project using `git clone` from this like [Here](https://github.com/shareefevans/Vehicle.Builder)
 2. Open the project folder in a text editor such as `Vs Code` or an alternative editor
 3. Open the command line/terminal/gitbash and navigate to the appropriate folder within Vehicle.Builder labelled `SRC`
-4. Run `npm i` to install an dependencies & then `npm run start`/`npm run build`
+4. Run `npm i` to install an dependencies & then `npm run start`/`npm run build` which then creates a `dist` file with compiled code
 
 ### Important commands
 
@@ -36,7 +36,7 @@ npm run start (OR) npm run build
 
 1. Open up your text editor
 2. Open up the command line in the text editor or terminal/gitbash
-3. Navigate to the folder that contains the **compiled** application in terminal (the folder labelled `dist` inside the Vehicle.Builder folder)
+3. Navigate to the folder that contains the **compiled** application in terminal (the folder labelled `dist` inside the ./Vehicle.Builder/dist folder)
 4. Type `node index.js` into the terminal
 5. Fill out the prompts as they are presented to you
 6. Once completed, vehicles have been made and both existing and newly created vehciles have been tested, when presented with the action menu, navigate down to `Exit` to terminate the application.
@@ -71,16 +71,17 @@ _In order to run a simple test, utilise the following instructions below (but fi
 
 ## 📺 Walkthrough
 
-[Follow Walkthrough link]()
+[Follow Walkthrough link](https://drive.google.com/file/d/1Vdt3Gk5tXpCZWj5xZacwileLnGghPTKz/view)
 
 ## ❓ Questions
 
-**Checkout my github profile below 👇**
+### Github profile below 👇
 
 - GitHub Name: shareefevans
 - GitHub Link: [Follow link here](https://github.com/shareefevans)
 
-_If you have any questions, don't hesitate to reach out vie the emial address below_
+### Contact Me
+
 *shareef3vans@gmail.com*
 
 ## 🏆 License
