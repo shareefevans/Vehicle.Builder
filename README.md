@@ -39,6 +39,18 @@
 
 ## ✅ Tests
 
+_In order to run a simple test, utilise the following instructions below (but first follow the usage instructions up until step 5 above):_
+
+- **Create New/Select Existing Vehicle** : Select `Create a new vehicle`
+- **Vehicle Type** : Select `Car`
+- **Enter Color** : Enter `Red`
+- **Enter Make** : Enter `Honda`
+- **Enter Modal** : Enter `HRV`
+- **Enter Year** : Enter `2019`
+- **Enter Top Speed** : Enter `200`
+- **Select Action** : Select `Print details` (which will print all the details entered)
+- **Select Action** : Select `Exit` (if you wish to keep testing, select another action until you're ready to select `Exit` from the action menu)
+
 ## 📺 Walkthrough
 
 [Follow Walkthrough link]()
