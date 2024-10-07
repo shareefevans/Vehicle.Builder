@@ -396,6 +396,7 @@ class Cli {
               } else {
                 console.log('cant tow vehicle');
               }
+              return;
             }
           }
         } else if (answers.action === 'Wheelie') {

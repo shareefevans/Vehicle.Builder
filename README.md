@@ -24,6 +24,14 @@
 3. Open the command line/terminal/gitbash and navigate to the appropriate folder within Vehicle.Builder labelled `SRC`
 4. Run `npm i` to install an dependencies & then `npm run start`/`npm run build`
 
+### Important commands
+
+```
+git clone
+npm i (OR) npm install
+npm run start (OR) npm run build
+```
+
 ## ✋ Usage
 
 1. Open up your text editor
@@ -41,6 +49,8 @@
 
 _In order to run a simple test, utilise the following instructions below (but first follow the usage instructions up until step 5 above):_
 
+### Creating a New Vehicle
+
 - **Create New/Select Existing Vehicle** : Select `Create a new vehicle`
 - **Vehicle Type** : Select `Car`
 - **Enter Color** : Enter `Red`
@@ -51,13 +61,21 @@ _In order to run a simple test, utilise the following instructions below (but fi
 - **Select Action** : Select `Print details` (which will print all the details entered)
 - **Select Action** : Select `Exit` (if you wish to keep testing, select another action until you're ready to select `Exit` from the action menu)
 
+### Testing Existing Vehicle
+
+- **Create New/Select Existing Vehicle** : Select `Select Existing Vehicle`
+- **Select Vehcile** : Select `Ford F-150`
+- **Select Action** : Select `Print Details`
+- **Select Action** : Select `Tow` and tow `Toyota Camry`
+- **Select Action** : Select `Exit`
+
 ## 📺 Walkthrough
 
 [Follow Walkthrough link]()
 
 ## ❓ Questions
 
-Checkout my github profile below 👇
+**Checkout my github profile below 👇**
 
 - GitHub Name: shareefevans
 - GitHub Link: [Follow link here](https://github.com/shareefevans)
@@ -67,5 +85,5 @@ _If you have any questions, don't hesitate to reach out vie the emial address be
 
 ## 🏆 License
 
-- Donwloads: ![NPM Downloads](https://img.shields.io/npm/dm/inquirer)
+- Downloads: ![NPM Downloads](https://img.shields.io/npm/dm/inquirer)
 - License: ![NPM License](https://img.shields.io/npm/l/inquirer)
